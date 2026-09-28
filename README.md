@@ -17,9 +17,9 @@ Combino la mirada de negocio con la de código: construyo, lanzo y opero mis pro
 | [StarMap](https://starmap.cl) | Mapas estelares personalizados, e-commerce con checkout. |
 | [GreenForest](https://greenforest.cl) | Landing premium con fondo generativo en canvas. |
 
-## Investigaciones · vida sintética
+## Investigación
 
-- 🪰 **[Una mosca digital con el cerebro completo](https://doi.org/10.5281/zenodo.23004437)** — preprint, 2026
+- **Aldunate Rodríguez, F. J. (2026).** [Embodied whole-CNS emulation of *Drosophila melanogaster*: behaviours that emerge from the connectome, and behaviours that do not](https://doi.org/10.5281/zenodo.23004437). Preprint, Zenodo. doi:10.5281/zenodo.23004437
 
 ## Código abierto
 
