@@ -17,6 +17,11 @@ Combino la mirada de negocio con la de código: construyo, lanzo y opero mis pro
 | [StarMap](https://starmap.cl) | Mapas estelares personalizados, e-commerce con checkout. |
 | [GreenForest](https://greenforest.cl) | Landing premium con fondo generativo en canvas. |
 
+## Investigación
+
+- **[Embodied whole-CNS emulation of *Drosophila melanogaster*: behaviours that emerge from the connectome, and behaviours that do not](https://doi.org/10.5281/zenodo.23004437)** — preprint, 2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23004437.svg)](https://doi.org/10.5281/zenodo.23004437)
+  Emulación del sistema nervioso central completo de la mosca de la fruta (165.122 neuronas, 25,6 millones de conexiones) acoplada a un cuerpo físico simulado. Mide qué conductas emergen solas del conectoma —comer, limpiarse, caminar, escapar— y cuáles no, con controles explícitos (lesiones falsas, conectoma barajado, orden contrabalanceado) y corrección por comparaciones múltiples.
+
 ## Código abierto
 
 - **[Bloomberg Chile](https://github.com/franciscoaldun/bloomberg-chile)** — panel económico abierto y gratuito para Chile. 51 indicadores del Banco Central en tiempo real. Python + FastAPI + Next.js.
